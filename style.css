@@ -8,6 +8,7 @@ main {
   /* border: 20px solid red; */
   text-align: center;
   margin: 50px 550px;
+  /* overflow: auto; */
 }
 img {
   border: 5px solid black;
@@ -28,12 +29,12 @@ img {
   box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
 }
 .content p {
+  border: 5px solid greenyellow;
   color: rgb(72, 68, 68);
-  width: 40rem;
-  height: 28rem;
-  margin-left: 7rem;
+  width: 45rem;
+  margin: auto;
   padding-top: 2rem;
-  text-align: center;
+  padding-bottom: 4rem;
 }
 h5 {
   margin-top: 25px;
